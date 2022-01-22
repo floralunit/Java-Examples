@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Лабораторная работа 1/ArithmeticAverage/ArithmeticAverage.iml" filepath="$PROJECT_DIR$/Лабораторная работа 1/ArithmeticAverage/ArithmeticAverage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Лабораторная работа 4 (Массивы)/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Лабораторная работа 4 (Массивы)/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Лабораторная работа 4 (Массивы)/BubbleArray/BubbleArray.iml" filepath="$PROJECT_DIR$/Лабораторная работа 4 (Массивы)/BubbleArray/BubbleArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Лабораторная работа 2/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Лабораторная работа 2/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Лабораторная работа 1/Circle/Circle.iml" filepath="$PROJECT_DIR$/Лабораторная работа 1/Circle/Circle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Лабораторная работа 3 (Циклы)/Delivery/Delivery.iml" filepath="$PROJECT_DIR$/Лабораторная работа 3 (Циклы)/Delivery/Delivery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Лабораторная работа 3 (Циклы)/FiguresInLoop/FiguresInLoop.iml" filepath="$PROJECT_DIR$/Лабораторная работа 3 (Циклы)/FiguresInLoop/FiguresInLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Лабораторная работа 2/Interval/Interval.iml" filepath="$PROJECT_DIR$/Лабораторная работа 2/Interval/Interval.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Examples.iml" filepath="$PROJECT_DIR$/.idea/Java-Examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Лабораторная работа 2/MaxNumCount/MaxNumCount.iml" filepath="$PROJECT_DIR$/Лабораторная работа 2/MaxNumCount/MaxNumCount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Лабораторная работа 2/MinMax/MinMax.iml" filepath="$PROJECT_DIR$/Лабораторная работа 2/MinMax/MinMax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Лабораторная работа 4 (Массивы)/MultiArrays/MultiArrays.iml" filepath="$PROJECT_DIR$/Лабораторная работа 4 (Массивы)/MultiArrays/MultiArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Лабораторная работа 4 (Массивы)/StringArrays/SplitArray.iml" filepath="$PROJECT_DIR$/Лабораторная работа 4 (Массивы)/StringArrays/SplitArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Лабораторная работа 3 (Циклы)/SumBetweenNums/SumBetweenNums.iml" filepath="$PROJECT_DIR$/Лабораторная работа 3 (Циклы)/SumBetweenNums/SumBetweenNums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Лабораторная работа 1/Task1_SimpleArithmetic/Task1_SimpleArithmetic.iml" filepath="$PROJECT_DIR$/Лабораторная работа 1/Task1_SimpleArithmetic/Task1_SimpleArithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Лабораторная работа 2/Translator/Translator.iml" filepath="$PROJECT_DIR$/Лабораторная работа 2/Translator/Translator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Лабораторная работа 1/Volume/Volume.iml" filepath="$PROJECT_DIR$/Лабораторная работа 1/Volume/Volume.iml" />
+    </modules>
+  </component>
+</project>

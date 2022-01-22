@@ -15,12 +15,19 @@ public class Main{
             array[iCount] = randomNumber;
             System.out.print(array[iCount] + " ");
         }
-        int max = array[0], min = array[0];
+        int c =0;//количество элементов массива, не входящих в диапазон от -10 до 10
+        for (int iCount = 0; iCount< array.length; iCount++){
+            if (array[iCount] > 10 || array[iCount] < -10) c++;
+        }
+        System.out.println("\nКоличество  элементов массива, не входящих в диапазон от -10 до 10 равно " + c);
+
+/*      int max = array[0], min = array[0];
         for (int iCount = 0; iCount< array.length; iCount++){
             if (array[iCount] > max) max = array[iCount];
             if (array[iCount] < min) min = array[iCount];
         }
-        System.out.printf("\nНаибольшее значение массива = %d\nНаименьшее значение массива = %d\nРазность между максимальным и минимальным элементами = %d", max, min, max-min);
+        System.out.printf("\nНаибольшее значение массива = %d\nНаименьшее значение массива = %d\nРазность между максимальным и минимальным элементами = %d", max, min, max-min);*/
+
 /*        int max = array[0], min = array[0], s = 0;
         double a; //среднее арифметическое
         for (int iCount = 0; iCount< array.length; iCount++){
@@ -46,3 +53,7 @@ public class Main{
 
     }
 }
+
+
+
+
